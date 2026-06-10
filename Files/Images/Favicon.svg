@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="32" y="32" width="448" height="448" rx="120" fill="#121212" stroke="#B76E79" stroke-width="36"/>
+  
+  <text x="235" y="350" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="230" fill="#F8F4F4" text-anchor="middle" letter-spacing="-5">PS</text>
+  
+  <circle cx="400" cy="345" r="36" fill="#B76E79"/>
+</svg>
